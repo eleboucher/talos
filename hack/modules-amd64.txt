@@ -226,7 +226,6 @@ kernel/drivers/virtio/virtio_pci.ko
 kernel/drivers/virtio/virtio_vdpa.ko
 kernel/drivers/watchdog/f71808e_wdt.ko
 kernel/drivers/watchdog/i6300esb.ko
-kernel/drivers/watchdog/iTCO_vendor_support.ko
 kernel/drivers/watchdog/iTCO_wdt.ko
 kernel/drivers/watchdog/sp5100_tco.ko
 kernel/drivers/watchdog/watchdog.ko
